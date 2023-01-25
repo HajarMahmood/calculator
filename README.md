@@ -1,4 +1,4 @@
 # calculator
 <p align="center">
-  <img width="auto" height="auto" src="images/calculator.jpg">
+  <img width="auto" height="auto" src="images/calculator.png">
 </p>
